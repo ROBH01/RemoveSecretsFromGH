@@ -1,8 +1,6 @@
 # Removing secrets from GH
 This repo is more of a guidance on how to remove secrets e.g. passwords and keys from GitHub History on a specific repo.
 
-<br />
-
 ### 🙋 Is this for me?
 If you accidentally or unknowingly pushed sensitive information such as passwords and keys to GH, across multiple commits, a new commit with the 'masked' changes will not help. This is because files have a history and sensitive information can still be seen in previous versions of the files. There are, however, different ways to address this:
 
