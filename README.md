@@ -32,6 +32,6 @@ The option `--force` is needed because the history rewrite made every commit has
 
 <br />
 
-#### 🔗 References:
+### 🔗 References:
 - [BFG Repo Cleaner download page](https://rtyley.github.io/bfg-repo-cleaner/)
 - [Remove GH History article](https://www.claudiobernasconi.ch/2021/06/04/how-to-remove-secrets-from-git-history/)
